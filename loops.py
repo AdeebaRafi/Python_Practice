@@ -1,6 +1,13 @@
-for i in range(5):
-    print(i)
+# range(strat, stop)
 
-a= [0,4,6,3,2]
-for i in a:
-    print(a)
+# for i in range(5):
+#     print(i)
+
+count = 1
+while(count<=5):
+    print(count)
+    count+=1
+
+# x = [9,4,53,2,1]
+# for number in x:
+#     print(number)
