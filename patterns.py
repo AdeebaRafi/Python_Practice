@@ -24,3 +24,4 @@ for e in range(1,rows+1):
         print(w,end="")
     print()
 
+
