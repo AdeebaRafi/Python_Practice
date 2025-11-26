@@ -24,4 +24,10 @@ for e in range(1,rows+1):
         print(w,end="")
     print()
 
+# A
+# BB
+# CCC
+# DDDD
+
+print(chr(65));
 
