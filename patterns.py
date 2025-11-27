@@ -38,4 +38,17 @@ for i in range(4):
     print()
 
 
+# Given a list
+# nums = [2, 5, 7, 8, 10, 3]
+# Find the sum of all even numbers.
+sum =0
+nums = [2, 5, 7, 8, 10, 3]
+for i in nums:
+    if i%2==0:
+        sum +=i
+print(sum)
+
+# Given a list
+# nums = [4, 9, 1, 5, 7]
+# Find the largest number without using the max() function.
 
