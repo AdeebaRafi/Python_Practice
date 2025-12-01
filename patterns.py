@@ -135,3 +135,12 @@ for a in range(len(s)):
     if s[a] == 'n':
         print(a)
         break
+
+
+s = "banana"
+
+for i in range(len(s)):
+    if s[i] == "n":
+        print("index is", i)
+        break
+
